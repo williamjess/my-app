@@ -22,14 +22,14 @@ export default function Home() {
 
         <b>about</b>
           <p>I'm living in Belfast, Northern Ireland.</p>
-          <p>I like data analysis, dota2, and fitness.</p>
+          <p>I like data analysis, esports, and fitness.</p>
 
           <b>current</b>
           <p>Pursuing a career in the Fullstack or Data Analytics spaces.</p>
 
         <b>past</b>
         <p>University of Ulster Computer Science graduate</p>
-        <p>Network engineer intern @ SERC Lisburn</p>
+        <p></p>
        
        
       <b>Contact</b>
